@@ -13,31 +13,18 @@ has_toc: false
 Starting from Oct 26,
 
 - All systematic learning, see [`./csdiy`](./csdiy)
-- Documents
-  1. Writing style
-      - [x] [PEP 8](https://peps.python.org/pep-0008/)
-      - [ ] [Google python style guide](https://google.github.io/styleguide/pyguide.html)
-  2. [Version control and git](https://swcarpentry.github.io/git-novice/)
-  3. Project development
-      - [x] [uv](https://docs.astral.sh/uv/guides/projects/)
-      - [ ] [ruff](https://docs.astral.sh/ruff/)
-      - [ ] [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
-      - [ ] [Python Packaging User Guide](https://packaging.python.org/en/latest/)
 - Practical tools
   - [`./aws/cloud`](https://skillbuilder.aws/learn)
 - Hands-on projects
-  - FINM 325 Assignments (Backtesting Framework): [`./backtest`](./backtest) 🌟🌟🌟🌟
-  - Exchange Simulator / Matching Engine: [`./simulator`](./simulator) 🌟🌟🌟🌟🌟
-  - Market Data Pipeline: [`./data_pipeline`](./data_pipeline) 🌟🌟🌟🌟🌟
-  - Rewrite resume projects
-    - ~~Infinity capital~~
-    - DolphinDB (rewrite with python) 🌟🌟🌟
+  - FINM 325 Project: [`./trading_system`](./backtest) 🌟🌟🌟🌟
+  - Auto alpha mining: [`./alpha_miner`](./alpha_miner) 🌟🌟🌟🌟🌟
+  - Market data pipeline: [`./data_pipeline`](./data_pipeline)
 - Other references
   - [`./roadmap/backend`](https://roadmap.sh/backend)
 
-[Quantlib](https://github.com/lballabio/QuantLib) is a great resource, however it's written in C++. Definitely won't work on it before capturing the basics of C++. References for future use: [Implementing quantlib](/pdf/implementingquantlib.pdf), [Quantlib-python Cookbook](/pdf/quantlibpythoncookbook.pdf).
-
 ---
+
+[Quantlib](https://github.com/lballabio/QuantLib) is a great resource, however it's written in C++. Definitely won't work on it before capturing the basics of C++. References for future use: [Implementing quantlib](/pdf/implementingquantlib.pdf), [Quantlib-python Cookbook](/pdf/quantlibpythoncookbook.pdf).
 
 *Updated (Oct 25)*: Now I decided to break into quant dev, so I adjusted my course plan. I gave up the concentration on "Rates and Credits", changing into "Financial Computing". So now my concentrations are "Options and Derivatives" and "Financial Computing". Winter 2025 would be very tough, but once I make it and if I'm still alive, I would be unstoppable. I admit that UCSD's DSA micromaster is not a great resource to learn. Neetcode should be better (I invested \$120).
 

@@ -6,25 +6,48 @@ nav_order: 0
 
 Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s suggestions for my current situation, I’ve decided on my focus for the next couple of months.
 
-- [`./mit-missing-semester`](https://missing.csail.mit.edu/)
-- Data Structures and Algorithms
-  - [`./neetcode`](https://neetcode.io/courses): Primary
-  - [`./cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
-- [`./databases`](./databases)
-- [`./cs106b`](https://web.stanford.edu/class/cs106b/)
-- Distributed System
-  - [`./mit6.824`](http://nil.csail.mit.edu/6.824/2020/schedule.html): do lectures only
-- ~~Parallel Computing~~ - **Dropped**
-  - [Stanford CS149](https://gfxcourses.stanford.edu/cs149/fall23/): [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp), 
-- ~~Software Engineering~~ - **Dropped**
-  - [MIT 6.031](https://web.mit.edu/6.031/www/sp22/): no recordings
+*Order does not matter*
 
+*Remember to leave time for projects*
 
-| Rank | Course | Priority | Time | When | Why | Status |
-|------|--------|----------|------|------|-----|-----|
-| **0** | **[MIT Missing Semester](https://missing.csail.mit.edu/)** | **Critical** | 10-15h | Week 1 | Foundational tooling for all dev work | ✅ |
-| **1** | **[Neetcode](https://neetcode.io/courses)** | **Critical** | Daily (1-2 problems) | Ongoing | 70-80% of interview content | 🏃 |
-| **2** | **[CS61B](https://sp21.datastructur.es/)** | **Critical** | 72-90h | Weeks 1-6 | Data structure implementation depth | ⛔ |
-| **3** | **[Databases - Custom Path](./databases)** | Medium | 40-50h | Weeks 7-14 | SQL proficiency + DB fundamentals | ⛔ |
-| **4** | **[CS106B](https://web.stanford.edu/class/cs106b/) (C++)** | **Critical** | 64-80h | Weeks 7-14 | High performance programming | ⛔ |
-| **5** | **[MIT 6.824](http://nil.csail.mit.edu/6.824/2020/) (Lectures)** | Medium | 36-48h | Weeks 17-24+ | Distributed systems concepts | ⛔ |
+## Everyday thing
+
+- [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
+- [ ] [`./system_design/fundamentals`](https://bytebytego.com/guides/)
+- [ ] [`./dsa/cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
+- [ ] [`./databases`](./databases)
+
+## Checklist
+
+- [ ] [`./basics/mit-missing-semester`](https://missing.csail.mit.edu/)
+- [ ] [`./basics/git`](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [ ] [`./cpp/cs106b`](https://web.stanford.edu/class/cs106b/)
+- [ ] [`./distributed_system/mit6.824`](http://nil.csail.mit.edu/6.824/2020/schedule.html): do lectures only, skim
+- [ ] [`./aws/cloud`](https://skillbuilder.aws/learn)
+- [ ] [`./docker/beginner`](https://docker-curriculum.com/)
+- [ ] [`./docker/official_intro`](https://docs.docker.com/get-started/)
+- [ ] [`./docker/compose`](https://docs.docker.com/compose/gettingstarted/)
+- [ ] [`./docker/best_practice`](https://docs.docker.com/build/building/best-practices/)
+- [ ] [`./msg/kafka/in_100_seconds`](https://www.youtube.com/watch?v=uvb00oaa3k8)
+- [ ] [`./msg/kafka/official_intro`](https://kafka.apache.org/intro)
+- [ ] [`./monitoring/structlog`](https://www.structlog.org/en/stable/getting-started.html)
+- [ ] [`./monitoring/prometheus`](https://prometheus.io/docs/prometheus/latest/getting_started/)
+- [ ] [`./monitoring/grafana`](https://grafana.com/tutorials/grafana-fundamentals/)
+- [ ] [`./api/fastapi`](https://fastapi.tiangolo.com/tutorial/)
+- [ ] [`./api/restapi`](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+- [ ] [`./msg/redis`](https://realpython.com/python-redis/)
+- [ ] [`./msg/rabbitmq`](https://www.youtube.com/watch?v=deG25y_r6OY)
+- [ ] [`./secrets/aws`](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)
+- [ ] [`./secrets/.env`](https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1)
+- [ ] [`./secrets/python_dotenv`](https://pypi.org/project/python-dotenv/)
+- [ ] [`./secrets/api`](https://github.com/shieldfy/API-Security-Checklist)
+- [ ] [`./secrets/safety`](https://pypi.org/project/safety/)
+- [ ] [`./system_design/gaurav`](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [ ] [`./system_design/interview`](https://www.youtube.com/@SystemDesignInterview)
+- [ ] [`./asyncio/guide`](https://realpython.com/async-io-python/)
+- [ ] [`./concurrency/doc1](https://superfastpython.com/python-concurrency-api-docs/)
+- [ ] [`./concurrency/doc2`](https://realpython.com/python-concurrency/)
+- [ ] [`./terraform`](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+- [ ] [`./websockets`](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- [ ] [`./networking`](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [ ] [`./aws/vpc`](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)

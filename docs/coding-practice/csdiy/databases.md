@@ -22,7 +22,7 @@ toc: true
 
 **Resources:**
 - [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) - Complete all lessons (2 weeks)
-- [SQL Bolt](https://sqlbolt.com/) - Complete all lessons (4 hours)
+- [Neetcode](https://neetcode.io/problems/sql-create-table) - Complete all lessons (6 hours)
 - [LeetCode SQL Top 50](https://leetcode.com/studyplan/top-sql-50/) - Solve all problems (10 hours)
 - [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) - Skim for advanced patterns (1 hour)
 

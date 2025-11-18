@@ -10,8 +10,8 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - Data Structures and Algorithms
   - [`./neetcode`](https://neetcode.io/courses): Primary
   - [`./cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
-  - [`./cs170`](https://cs170.org/): [lecture notes](https://smartspot2.github.io/assets/pdf/CS170_Lecture_Notes.pdf), only focus on DP/graph
 - [`./databases`](./databases)
+- [`./cs106b`](https://web.stanford.edu/class/cs106b/)
 - Distributed System
   - [`./mit6.824`](http://nil.csail.mit.edu/6.824/2020/schedule.html): do lectures only
 - ~~Parallel Computing~~ - **Dropped**
@@ -20,11 +20,11 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
   - [MIT 6.031](https://web.mit.edu/6.031/www/sp22/): no recordings
 
 
-| Rank | Course | Priority | Time | When | Why |
-|------|--------|----------|------|------|-----|
-| **0** | **[MIT Missing Semester](https://missing.csail.mit.edu/)** | **Critical** | 10-15h | Week 1 | Foundational tooling for all dev work |
-| **1** | **[Neetcode](https://neetcode.io/courses)** | **Critical** | Daily (1-2 problems) | Ongoing | 70-80% of interview content |
-| **2** | **[CS61B](https://sp21.datastructur.es/)** | **Critical** | 72-90h | Weeks 1-6 | Data structure implementation depth |
-| **3** | **[CS170](https://cs170.org/) (DP/Graphs)** | **Critical** | 64-80h | Weeks 7-14 | Algorithm theory + problem-solving |
-| **4** | **[Databases - Custom Path](./databases)** | Medium | 40-50h | Weeks 7-14 | SQL proficiency + DB fundamentals |
-| **5** | **[MIT 6.824](http://nil.csail.mit.edu/6.824/2020/) (Lectures)** | Medium | 36-48h | Weeks 17-24+ | Distributed systems concepts |
+| Rank | Course | Priority | Time | When | Why | Status |
+|------|--------|----------|------|------|-----|-----|
+| **0** | **[MIT Missing Semester](https://missing.csail.mit.edu/)** | **Critical** | 10-15h | Week 1 | Foundational tooling for all dev work | ✅ |
+| **1** | **[Neetcode](https://neetcode.io/courses)** | **Critical** | Daily (1-2 problems) | Ongoing | 70-80% of interview content | 🏃 |
+| **2** | **[CS61B](https://sp21.datastructur.es/)** | **Critical** | 72-90h | Weeks 1-6 | Data structure implementation depth | ⛔ |
+| **3** | **[Databases - Custom Path](./databases)** | Medium | 40-50h | Weeks 7-14 | SQL proficiency + DB fundamentals | ⛔ |
+| **4** | **[CS106B](https://web.stanford.edu/class/cs106b/) (C++)** | **Critical** | 64-80h | Weeks 7-14 | High performance programming | ⛔ |
+| **5** | **[MIT 6.824](http://nil.csail.mit.edu/6.824/2020/) (Lectures)** | Medium | 36-48h | Weeks 17-24+ | Distributed systems concepts | ⛔ |

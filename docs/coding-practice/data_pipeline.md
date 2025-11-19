@@ -1,5 +1,5 @@
 ---
-title: Market Data Pipeline
+title: Data Pipeline
 parent: Coding Camp
 nav_order: 3
 toc: true

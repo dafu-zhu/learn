@@ -16,8 +16,8 @@ Starting from Oct 26,
 - Practical tools
   - [`./aws/cloud`](https://skillbuilder.aws/learn)
 - Hands-on projects
-  - FINM 325 Project: [`./trading_system`](./backtest) 🌟🌟🌟🌟
-  - Auto alpha mining: [`./alpha_miner`](./alpha_miner) 🌟🌟🌟🌟🌟
+  - FINM 325 Project: [`./trading_system`](./trading_system)
+  - Auto alpha mining: [`./alpha_miner`](./alpha_miner)
   - Market data pipeline: [`./data_pipeline`](./data_pipeline)
 - Other references
   - [`./roadmap/backend`](https://roadmap.sh/backend)

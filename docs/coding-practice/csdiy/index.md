@@ -13,8 +13,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 ## Everyday thing
 
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
-- [ ] [`./agent/kaggle`](https://www.kaggle.com/learn-guide/5-day-genai)
-- [ ] [`./system_design/fundamentals`](https://bytebytego.com/guides/)
+- [ ] [`./agent/kaggle`](https://www.kaggle.com/learn-guide/5-day-agents)
 - [ ] [`./dsa/cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
 - [ ] [`./databases`](./databases)
 

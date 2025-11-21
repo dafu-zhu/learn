@@ -1,6 +1,6 @@
 ---
 title: Trading System
-parent: Coding Camp
+parent: Projects
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Alpha Miner
-parent: Coding Camp
+parent: Projects
 nav_order: 2
 ---
 

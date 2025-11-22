@@ -13,7 +13,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 ## Everyday thing
 
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
-- [ ] [`./dsa/cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
+- [ ] [`./dsa/cs61b`](https://sp25.datastructur.es/)
 - [ ] [`./databases`](./databases)
 - [ ] [`./networking/cs168`](https://sp25.cs168.io/)
 

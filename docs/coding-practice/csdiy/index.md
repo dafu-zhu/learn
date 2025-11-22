@@ -15,6 +15,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
 - [ ] [`./dsa/cs61b`](https://sp21.datastructur.es/): use [gradescope](https://www.gradescope.com/courses/137626) for submission
 - [ ] [`./databases`](./databases)
+- [ ] [`./networking/cs168`](https://sp25.cs168.io/)
 
 ## Checklist
 
@@ -48,5 +49,5 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - [ ] [`./concurrency/doc2`](https://realpython.com/python-concurrency/)
 - [ ] [`./terraform`](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
 - [ ] [`./websockets`](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-- [ ] [`./networking`](https://www.udacity.com/course/networking-for-web-developers--ud256)
 - [ ] [`./aws/vpc`](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- [ ] [`./parallel/cs267`](https://sites.google.com/lbl.gov/cs267-spr2022)

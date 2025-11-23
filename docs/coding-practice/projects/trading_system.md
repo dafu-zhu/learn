@@ -547,7 +547,7 @@ ExecutionGateway (Abstract)
 
 <script>
 window.addEventListener('load', function() {
-  const projectStart = new Date(2025, 10, 25); // November 25, 2025 (month is 0-indexed)
+  const projectStart = new Date(2025, 10, 23); // November 23, 2025 (month is 0-indexed)
   const today = new Date();
   
   const diffMs = today - projectStart;

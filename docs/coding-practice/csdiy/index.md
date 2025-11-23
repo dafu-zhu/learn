@@ -15,10 +15,11 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
 - [ ] [`./dsa/cs61b`](./cs61b)
 - [ ] [`./databases`](./databases)
-- [ ] [`./networking/cs168`](https://sp25.cs168.io/)
 
 ## Checklist
 
+- [ ] [`./networking/cs168`](https://sp25.cs168.io/)
+- [ ] [`./os/cs162`](https://cs162.org/)
 - [ ] [`./basics/mit-missing-semester`](https://missing.csail.mit.edu/)
 - [ ] [`./basics/git`](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [ ] [`./cpp/cs106b`](https://web.stanford.edu/class/cs106b/)
@@ -45,8 +46,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - [ ] [`./system_design/gaurav`](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [ ] [`./system_design/interview`](https://www.youtube.com/@SystemDesignInterview)
 - [ ] [`./asyncio/guide`](https://realpython.com/async-io-python/)
-- [ ] [`./concurrency/doc1](https://superfastpython.com/python-concurrency-api-docs/)
-- [ ] [`./concurrency/doc2`](https://realpython.com/python-concurrency/)
+- [ ] [`./concurrency/doc`](https://realpython.com/python-concurrency/)
 - [ ] [`./terraform`](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
 - [ ] [`./websockets`](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - [ ] [`./aws/vpc`](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)

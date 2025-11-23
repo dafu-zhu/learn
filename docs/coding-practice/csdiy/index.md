@@ -15,6 +15,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
 - [ ] [`./dsa/cs61b`](./cs61b)
 - [ ] [`./databases`](./databases)
+- [ ] [`./worldquant`](https://platform.worldquantbrain.com/learn)
 
 ## Checklist
 

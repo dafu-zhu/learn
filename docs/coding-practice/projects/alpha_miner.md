@@ -9,24 +9,6 @@ nav_order: 2
 **Project Start Date:** November 25, 2025  
 **Progress:** <span id="progress">Loading...</span>
 
-<script>
-window.addEventListener('load', function() {
-  const projectStart = new Date(2025, 10, 25); // November 25, 2025 (month is 0-indexed)
-  const today = new Date();
-  
-  const diffMs = today - projectStart;
-  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24)) + 1; // +1 to count start day as Day 1
-  
-  if (diffDays < 1) {
-    document.getElementById('progress').textContent = 'Not started yet';
-  } else {
-    const weekNum = Math.ceil(diffDays / 7);
-    const dayInWeek = ((diffDays - 1) % 7) + 1; // 1-7 instead of 0-6
-    document.getElementById('progress').textContent = `Week ${weekNum}, Day ${dayInWeek}`;
-  }
-});
-</script>
-
 ## Project Overview
 
 Build an automated alpha factor mining system optimized for WorldQuant BRAIN platform submission, demonstrating production-quality infrastructure design, efficient factor generation, and rigorous validation pipelines.
@@ -436,3 +418,23 @@ AlphaSubmitter (Abstract)
 ## Appendix
 
 A book to RL: [Reinforcement Learning: An Overview](/assets/pdfs/projects/rl_overview.pdf)
+
+---
+
+<script>
+window.addEventListener('load', function() {
+  const projectStart = new Date(2025, 10, 25); // November 25, 2025 (month is 0-indexed)
+  const today = new Date();
+  
+  const diffMs = today - projectStart;
+  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24)) + 1; // +1 to count start day as Day 1
+  
+  if (diffDays < 1) {
+    document.getElementById('progress').textContent = 'Not started yet';
+  } else {
+    const weekNum = Math.ceil(diffDays / 7);
+    const dayInWeek = ((diffDays - 1) % 7) + 1; // 1-7 instead of 0-6
+    document.getElementById('progress').textContent = `Week ${weekNum}, Day ${dayInWeek}`;
+  }
+});
+</script>

@@ -6,6 +6,17 @@ nav_order: 2
 
 # Auto Alpha Miner: Production-Grade System
 
+{: .no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 **Project Start Date:** November 25, 2025  
 **Progress:** <span id="progress">Loading...</span>
 

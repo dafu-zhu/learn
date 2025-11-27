@@ -14,10 +14,11 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
 - [ ] [`./databases`](./databases)
-- [ ] [`./worldquant`](https://platform.worldquantbrain.com/learn)
+- [ ] [`../projects/trading_system`](../projects/trading_system)
 
 ## Checklist
 
+- [ ] [`./worldquant`](https://platform.worldquantbrain.com/learn)
 - [ ] [`./networking/cs168`](https://sp25.cs168.io/)
 - [ ] [`./os/cs162`](https://cs162.org/)
 - [ ] [`./basics/mit-missing-semester`](https://missing.csail.mit.edu/)

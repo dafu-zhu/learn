@@ -55,7 +55,7 @@ Github repo: [`./finm-python`](https://github.com/dafu-zhu/finm-python)
 * [x] HW 6 (Session 7): Design Patterns in Financial Software Architecture
 * [ ] HW 7 (Session 8): Parallel Computing for Financial Data Processing
 * [ ] HW 8 (Session 9): Inter-Process Communication for Trading Systems
-* [ ] HW 9 (Session 10): Mini Trading System
+* [x] HW 9 (Session 10): Mini Trading System
 
 **Note:** HW 7-9 must be completed before starting Phase 1 of the trading system project.
 

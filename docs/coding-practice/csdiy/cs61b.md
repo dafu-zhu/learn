@@ -1,10 +1,8 @@
 ---
 title: CS61B
-parent: CS DIY
-nav_order: 1
+# parent: CS DIY
+# nav_order: 1
 toc: true
-nav_enable: false
-search_enable: false
 ---
 
 # CS 61B

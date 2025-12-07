@@ -14,7 +14,7 @@ Taking advantage of the well-known [CSDIY](https://csdiy.wiki/) and Claude’s s
 
 - [ ] [`./dsa/neetcode`](https://neetcode.io/courses): Primary
 - [ ] [`./databases`](./databases)
-- [ ] [`../projects/trading_system`](../projects/trading_system)
+- [ ] [`./projects`](https://github.com/users/dafu-zhu/projects/1/views/1)
 - [ ] [`./modern_swe/cs146s`](https://themodernsoftware.dev/)
 
 ## Checklist

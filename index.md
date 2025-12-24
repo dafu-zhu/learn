@@ -11,27 +11,26 @@ nav_order: -10000
 Welcome to **learn.dafuzhu.com** — my long-term notebook for structured self-learning in  
 mathematics, machine learning, and quantitative finance.
 
-## 🚀 Active Tracks
+## Active Tracks
 
 - **[CS DIY](/docs/coding-practice/csdiy/)**  
   Interview prep · Problem solving · Complexity · LeetCode
 
-- **[Backtesting Framework](/docs/coding-practice/backtest/)**  
-  Machine learning · Kaggle · Modeling · Python project
+- **[Resume Projects](https://github.com/users/dafu-zhu/projects/1)**  
 
-## 🎓 Certificates & Milestones
+## Certificates & Milestones
 
 Proof of completed courses and certifications.
 
 - [All Certificates](https://learn.dafuzhu.com/docs/certificates)
 
-## 🧮 Study & Notes
+## Study & Notes
 
 - [MTPS — Measure Theory, Probability & Stochastic Processes](./docs/gtm295)
 
-## 🧰 My Ecosystem
+## My Ecosystem
 
-- 🌐 [Main Site: tech.dafuzhu.com](https://tech.dafuzhu.com/)
+- 🌐 [Main Site](https://dafu-zhu.github.io/)
 - 📘 [Study Blog](https://learn.dafuzhu.com/)
 - 🧑‍💻 [Projects](https://github.com/dafuzhu-uchi)
 

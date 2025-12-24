@@ -13,26 +13,7 @@ has_toc: false
 Starting from Oct 26,
 
 - All systematic learning, see [`./csdiy`](./csdiy)
-- Practical tools
-  - [`./aws/cloud`](https://skillbuilder.aws/learn)
 - Hands-on projects, check out [`./projects`](./projects)
-- Other references
-  - [`./roadmap/backend`](https://roadmap.sh/backend)
-
----
-
-[Quantlib](https://github.com/lballabio/QuantLib) is a great resource, however it's written in C++. Definitely won't work on it before capturing the basics of C++. References for future use: [Implementing quantlib](/pdf/implementingquantlib.pdf), [Quantlib-python Cookbook](/pdf/quantlibpythoncookbook.pdf).
-
-*Updated (Oct 25)*: Now I decided to break into quant dev, so I adjusted my course plan. I gave up the concentration on "Rates and Credits", changing into "Financial Computing". So now my concentrations are "Options and Derivatives" and "Financial Computing". Winter 2025 would be very tough, but once I make it and if I'm still alive, I would be unstoppable. I admit that UCSD's DSA micromaster is not a great resource to learn. Neetcode should be better (I invested \$120).
-
----
-
-*Updated (Oct 26)*: Suggestion from Claude. **Quality > Quantity.** Recruiters spend 30 seconds on your GitHub. Better to have:
-
-- 2-3 excellent projects with great documentation
-- Than 10 mediocre repos
-
-Your DDB experience is unique. If you build that one project really well, document it clearly, and can talk about it confidently in interviews, that alone can carry your resume.
 
 ---
 
@@ -49,3 +30,18 @@ Your DDB experience is unique. If you build that one project really well, docume
 - Market Data Pipeline
   - Mentions a lot in JDs
   - Practice system design
+
+---
+
+*Updated (Oct 26)*: Suggestion from Claude. **Quality > Quantity.** Recruiters spend 30 seconds on your GitHub. Better to have:
+
+- 2-3 excellent projects with great documentation
+- Than 10 mediocre repos
+
+Your DDB experience is unique. If you build that one project really well, document it clearly, and can talk about it confidently in interviews, that alone can carry your resume.
+
+---
+
+*Updated (Oct 25)*: Now I decided to break into quant dev, so I adjusted my course plan. I gave up the concentration on "Rates and Credits", changing into "Financial Computing". So now my concentrations are "Options and Derivatives" and "Financial Computing". Winter 2025 would be very tough, but once I make it and if I'm still alive, I would be unstoppable. I admit that UCSD's DSA micromaster is not a great resource to learn. Neetcode should be better (I invested \$120).
+
+[Quantlib](https://github.com/lballabio/QuantLib) is a great resource, however it's written in C++. Definitely won't work on it before capturing the basics of C++. References for future use: [Implementing quantlib](/pdf/implementingquantlib.pdf), [Quantlib-python Cookbook](/pdf/quantlibpythoncookbook.pdf).
